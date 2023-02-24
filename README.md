@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**EMREEGEDUKK/EMREEGEDUKK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Emre Geduk. I am a 4th year student of computer engineering at Çanakkale 18 mart university.
+## Technologies and Tools I Use
+- HTML
+- CSS
+- Javascript
+- Nodejs
+- ExpressJs
+- SQL
+- MongoDB
+- Python
 
-Here are some ideas to get you started:
+💬 You can reach my linkedln account from the link below and ask me questions.
+  linkedin.com/in/emre-geduk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
